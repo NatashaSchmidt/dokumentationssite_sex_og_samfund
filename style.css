@@ -1,0 +1,27 @@
+body {
+    margin: 50px;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+p2 {
+    font-size: 2.5rem;
+}
+
+.skitser {
+
+
+    width: 1200px;
+}
+
+.sammen {
+    flex: wrap;
+    display: flex;
+}
